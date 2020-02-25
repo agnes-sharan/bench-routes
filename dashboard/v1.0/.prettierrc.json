@@ -3,7 +3,8 @@
         {
             "files": [".prettierrc", ".babelrc", ".eslintrc", ".stylelintrc"],
             "options": {
-                "parser": "json"
+                "parser": "json",
+                "tabWidth": 2
             }
         }
     ],
